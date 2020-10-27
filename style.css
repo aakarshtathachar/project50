@@ -1,0 +1,27 @@
+h1{
+    color:blue;
+}
+
+.header{
+   background-color: brown;
+   display:flex;
+    justify-content: space-between;
+    
+}
+
+.grid{
+  display: flex;
+  flex-wrap: wrap;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.oragami{
+    border-radius: 20px;
+    background-color: beige;
+    width: 310px;
+    font-family: fantasy;
+}
+body{
+background-color:burlywood;
+
+}
